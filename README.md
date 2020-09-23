@@ -1,69 +1,69 @@
 # React - Auth0 - Pluralsight
 
-- [x] 01 - Course Overview.mp4
-- [x] 02 - Intro.mp4
-- [x] 03 - Why Use an Auth Provider.mp4
-- [x] 04 - OAuth 2.0.mp4
-- [x] 05 - Choosing an OAuth Flow.mp4
-- [x] 06 - OpenID Connect.mp4
-- [x] 07 - JSON Web Tokens.mp4
-- [x] 08 - Summary.mp4
-- [x] 09 - Intro.mp4
-- [x] 10 - Tools We're Using in This Course.mp4
-- [x] 11 - Create App via create-react-app.mp4
-- [x] 12 - Add Routing via React Router.mp4
-- [x] 13 - Add Navigation Bar.mp4
-- [x] 14 - Style App.mp4
-- [x] 15 - Summary.mp4
-- [x] 16 - Intro.mp4
-- [x] 17 - Auth0 Versions Used in the Course.mp4
-- [x] 18 - Sign up for Auth0.mp4
-- [x] 19 - Key Auth Decisions.mp4
-- [x] 20 - Create an App in the Auth0 Dashboard.mp4
-- [x] 21 - Configure Environment Variables.mp4
-- [x] 22 - Create Auth Object.mp4
-- [x] 23 - Summary.mp4
-- [x] 24 - Intro.mp4
-- [ ] 25 - Setup Login.mp4
-- [ ] 26 - Review Callback URL and JWT.mp4
-- [ ] 27 - Parse Callback URL in Callback Component.mp4
-- [ ] 28 - Pick a Token Storage Approach.mp4
-- [ ] 29 - Implement Handle Authentication.mp4
-- [ ] 30 - Check if User Is Authenticated.mp4
-- [ ] 31 - Summary.mp4
-- [ ] 32 - Intro.mp4
-- [ ] 33 - Implement Logout.mp4
-- [ ] 34 - Review Signup Process.mp4
-- [ ] 35 - Get User Profile.mp4
-- [ ] 36 - Configure Profile Page Route.mp4
-- [ ] 37 - Display User Profile.mp4
-- [ ] 38 - Summary.mp4
-- [ ] 39 - Intro.mp4
-- [ ] 40 - Create Environment Variables.mp4
-- [ ] 41 - Create API with Node and Express.mp4
-- [ ] 42 - Start Express API Server via npm.mp4
-- [ ] 43 - Call Public API via React.mp4
-- [ ] 44 - Create Auth0 API.mp4
-- [ ] 45 - Configure Express to Parse JWTs.mp4
-- [ ] 46 - Call Private API.mp4
-- [ ] 47 - Summary.mp4
-- [ ] 48 - Intro.mp4
-- [ ] 49 - Intro to OAuth Scopes.mp4
-- [ ] 50 - Create a New Scope.mp4
-- [ ] 51 - Configure Express to Validate Scopes.mp4
-- [ ] 52 - Create React Page That Validates Scopes.mp4
-- [ ] 53 - Assign Admin Role via a Rule.mp4
-- [ ] 54 - Debug Rule.mp4
-- [ ] 55 - Validate Roles in Access Tokens.mp4
-- [ ] 56 - Authentication Approach Options.mp4
-- [ ] 57 - Summary.mp4
-- [ ] 58 - Intro.mp4
-- [ ] 59 - Redirect to Previous Page Upon Login.mp4
-- [ ] 60 - Create PrivateRoute Component.mp4
-- [ ] 61 - Create AuthContext.mp4
-- [ ] 62 - Declare AuthContext Provider.mp4
-- [ ] 63 - Consume AuthContext.mp4
-- [ ] 64 - Store Tokens in Memory.mp4
-- [ ] 65 - Silent Authentication and Token Renewal.mp4
-- [ ] 66 - Overview of Auth0 Customization Options.mp4
-- [ ] 67 - Summary.mp4
+- [x] 01 - Course Overview
+- [x] 02 - Intro
+- [x] 03 - Why Use an Auth Provider
+- [x] 04 - OAuth 2.0
+- [x] 05 - Choosing an OAuth Flow
+- [x] 06 - OpenID Connect
+- [x] 07 - JSON Web Tokens
+- [x] 08 - Summary
+- [x] 09 - Intro
+- [x] 10 - Tools We're Using in This Course
+- [x] 11 - Create App via create-react-app
+- [x] 12 - Add Routing via React Router
+- [x] 13 - Add Navigation Bar
+- [x] 14 - Style App
+- [x] 15 - Summary
+- [x] 16 - Intro
+- [x] 17 - Auth0 Versions Used in the Course
+- [x] 18 - Sign up for Auth0
+- [x] 19 - Key Auth Decisions
+- [x] 20 - Create an App in the Auth0 Dashboard
+- [x] 21 - Configure Environment Variables
+- [x] 22 - Create Auth Object
+- [x] 23 - Summary
+- [x] 24 - Intro
+- [ ] 25 - Setup Login
+- [ ] 26 - Review Callback URL and JWT
+- [ ] 27 - Parse Callback URL in Callback Component
+- [ ] 28 - Pick a Token Storage Approach
+- [ ] 29 - Implement Handle Authentication
+- [ ] 30 - Check if User Is Authenticated
+- [ ] 31 - Summary
+- [ ] 32 - Intro
+- [ ] 33 - Implement Logout
+- [ ] 34 - Review Signup Process
+- [ ] 35 - Get User Profile
+- [ ] 36 - Configure Profile Page Route
+- [ ] 37 - Display User Profile
+- [ ] 38 - Summary
+- [ ] 39 - Intro
+- [ ] 40 - Create Environment Variables
+- [ ] 41 - Create API with Node and Express
+- [ ] 42 - Start Express API Server via npm
+- [ ] 43 - Call Public API via React
+- [ ] 44 - Create Auth0 API
+- [ ] 45 - Configure Express to Parse JWTs
+- [ ] 46 - Call Private API
+- [ ] 47 - Summary
+- [ ] 48 - Intro
+- [ ] 49 - Intro to OAuth Scopes
+- [ ] 50 - Create a New Scope
+- [ ] 51 - Configure Express to Validate Scopes
+- [ ] 52 - Create React Page That Validates Scopes
+- [ ] 53 - Assign Admin Role via a Rule
+- [ ] 54 - Debug Rule
+- [ ] 55 - Validate Roles in Access Tokens
+- [ ] 56 - Authentication Approach Options
+- [ ] 57 - Summary
+- [ ] 58 - Intro
+- [ ] 59 - Redirect to Previous Page Upon Login
+- [ ] 60 - Create PrivateRoute Component
+- [ ] 61 - Create AuthContext
+- [ ] 62 - Declare AuthContext Provider
+- [ ] 63 - Consume AuthContext
+- [ ] 64 - Store Tokens in Memory
+- [ ] 65 - Silent Authentication and Token Renewal
+- [ ] 66 - Overview of Auth0 Customization Options
+- [ ] 67 - Summary
