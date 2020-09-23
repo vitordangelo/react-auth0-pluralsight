@@ -1,68 +1,69 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React - Auth0 - Pluralsight
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- [x] 01 - Course Overview.mp4
+- [x] 02 - Intro.mp4
+- [x] 03 - Why Use an Auth Provider.mp4
+- [x] 04 - OAuth 2.0.mp4
+- [x] 05 - Choosing an OAuth Flow.mp4
+- [x] 06 - OpenID Connect.mp4
+- [x] 07 - JSON Web Tokens.mp4
+- [x] 08 - Summary.mp4
+- [x] 09 - Intro.mp4
+- [x] 10 - Tools We're Using in This Course.mp4
+- [x] 11 - Create App via create-react-app.mp4
+- [x] 12 - Add Routing via React Router.mp4
+- [x] 13 - Add Navigation Bar.mp4
+- [x] 14 - Style App.mp4
+- [x] 15 - Summary.mp4
+- [x] 16 - Intro.mp4
+- [x] 17 - Auth0 Versions Used in the Course.mp4
+- [x] 18 - Sign up for Auth0.mp4
+- [x] 19 - Key Auth Decisions.mp4
+- [x] 20 - Create an App in the Auth0 Dashboard.mp4
+- [x] 21 - Configure Environment Variables.mp4
+- [x] 22 - Create Auth Object.mp4
+- [x] 23 - Summary.mp4
+- [x] 24 - Intro.mp4
+- [ ] 25 - Setup Login.mp4
+- [ ] 26 - Review Callback URL and JWT.mp4
+- [ ] 27 - Parse Callback URL in Callback Component.mp4
+- [ ] 28 - Pick a Token Storage Approach.mp4
+- [ ] 29 - Implement Handle Authentication.mp4
+- [ ] 30 - Check if User Is Authenticated.mp4
+- [ ] 31 - Summary.mp4
+- [ ] 32 - Intro.mp4
+- [ ] 33 - Implement Logout.mp4
+- [ ] 34 - Review Signup Process.mp4
+- [ ] 35 - Get User Profile.mp4
+- [ ] 36 - Configure Profile Page Route.mp4
+- [ ] 37 - Display User Profile.mp4
+- [ ] 38 - Summary.mp4
+- [ ] 39 - Intro.mp4
+- [ ] 40 - Create Environment Variables.mp4
+- [ ] 41 - Create API with Node and Express.mp4
+- [ ] 42 - Start Express API Server via npm.mp4
+- [ ] 43 - Call Public API via React.mp4
+- [ ] 44 - Create Auth0 API.mp4
+- [ ] 45 - Configure Express to Parse JWTs.mp4
+- [ ] 46 - Call Private API.mp4
+- [ ] 47 - Summary.mp4
+- [ ] 48 - Intro.mp4
+- [ ] 49 - Intro to OAuth Scopes.mp4
+- [ ] 50 - Create a New Scope.mp4
+- [ ] 51 - Configure Express to Validate Scopes.mp4
+- [ ] 52 - Create React Page That Validates Scopes.mp4
+- [ ] 53 - Assign Admin Role via a Rule.mp4
+- [ ] 54 - Debug Rule.mp4
+- [ ] 55 - Validate Roles in Access Tokens.mp4
+- [ ] 56 - Authentication Approach Options.mp4
+- [ ] 57 - Summary.mp4
+- [ ] 58 - Intro.mp4
+- [ ] 59 - Redirect to Previous Page Upon Login.mp4
+- [ ] 60 - Create PrivateRoute Component.mp4
+- [ ] 61 - Create AuthContext.mp4
+- [ ] 62 - Declare AuthContext Provider.mp4
+- [ ] 63 - Consume AuthContext.mp4
+- [ ] 64 - Store Tokens in Memory.mp4
+- [ ] 65 - Silent Authentication and Token Renewal.mp4
+- [ ] 66 - Overview of Auth0 Customization Options.mp4
+- [ ] 67 - Summary.mp4
